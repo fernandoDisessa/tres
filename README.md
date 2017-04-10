@@ -2,7 +2,7 @@
 
 Procura um caracter que seja o primeiro caracter Vogal, após uma consoante, onde
 
-esta consoante é sucessora de uma vogal e que este caratcer não se repita no resto da stream.
+esta consoante é sucessora de uma vogal e que este caracter não se repita no resto da stream.
 
 ### Build
 
