@@ -22,3 +22,7 @@ Deve-se passar a String a ser analisada
 - Se nenhuma String for passada como parâmetro, a mensagem "Error: No parameter" é exibida.
 
  
+# Próximos passos
+
+- externalizar mensagens
+- testes com JUnit
