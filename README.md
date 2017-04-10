@@ -26,4 +26,4 @@ Deve-se passar a String a ser analisada
 
 - externalizar mensagens
 - testes com JUnit
-- JavaDoc
+- Completar JavaDoc
